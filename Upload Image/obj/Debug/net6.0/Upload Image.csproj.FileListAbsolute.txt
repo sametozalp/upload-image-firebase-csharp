@@ -1,0 +1,24 @@
+C:\Users\Samet\Desktop\Upload Image\Upload Image\bin\Debug\net6.0\Upload Image.exe
+C:\Users\Samet\Desktop\Upload Image\Upload Image\bin\Debug\net6.0\Upload Image.deps.json
+C:\Users\Samet\Desktop\Upload Image\Upload Image\bin\Debug\net6.0\Upload Image.runtimeconfig.json
+C:\Users\Samet\Desktop\Upload Image\Upload Image\bin\Debug\net6.0\Upload Image.dll
+C:\Users\Samet\Desktop\Upload Image\Upload Image\bin\Debug\net6.0\Upload Image.pdb
+C:\Users\Samet\Desktop\Upload Image\Upload Image\bin\Debug\net6.0\Firebase.Storage.dll
+C:\Users\Samet\Desktop\Upload Image\Upload Image\bin\Debug\net6.0\FireSharp.dll
+C:\Users\Samet\Desktop\Upload Image\Upload Image\bin\Debug\net6.0\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Samet\Desktop\Upload Image\Upload Image\bin\Debug\net6.0\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Samet\Desktop\Upload Image\Upload Image\bin\Debug\net6.0\Microsoft.Threading.Tasks.dll
+C:\Users\Samet\Desktop\Upload Image\Upload Image\bin\Debug\net6.0\System.Net.Http.Extensions.dll
+C:\Users\Samet\Desktop\Upload Image\Upload Image\bin\Debug\net6.0\System.Net.Http.Primitives.dll
+C:\Users\Samet\Desktop\Upload Image\Upload Image\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Samet\Desktop\Upload Image\Upload Image\obj\Debug\net6.0\Upload Image.csproj.AssemblyReference.cache
+C:\Users\Samet\Desktop\Upload Image\Upload Image\obj\Debug\net6.0\Upload Image.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samet\Desktop\Upload Image\Upload Image\obj\Debug\net6.0\Upload Image.AssemblyInfoInputs.cache
+C:\Users\Samet\Desktop\Upload Image\Upload Image\obj\Debug\net6.0\Upload Image.AssemblyInfo.cs
+C:\Users\Samet\Desktop\Upload Image\Upload Image\obj\Debug\net6.0\Upload Image.csproj.CoreCompileInputs.cache
+C:\Users\Samet\Desktop\Upload Image\Upload Image\obj\Debug\net6.0\Upload Image.csproj.CopyComplete
+C:\Users\Samet\Desktop\Upload Image\Upload Image\obj\Debug\net6.0\Upload Image.dll
+C:\Users\Samet\Desktop\Upload Image\Upload Image\obj\Debug\net6.0\refint\Upload Image.dll
+C:\Users\Samet\Desktop\Upload Image\Upload Image\obj\Debug\net6.0\Upload Image.pdb
+C:\Users\Samet\Desktop\Upload Image\Upload Image\obj\Debug\net6.0\Upload Image.genruntimeconfig.cache
+C:\Users\Samet\Desktop\Upload Image\Upload Image\obj\Debug\net6.0\ref\Upload Image.dll
